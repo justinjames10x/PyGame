@@ -15,7 +15,9 @@ Install pydroid3 on Android from here : [pydroid3 playstore](https://play.google
 
 ## How to Download
 
-Download this project from here [Download Aeroblasters](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Aeroblasters)
+```
+git clone https://github.com/justinjames10x/PyGameIntro/tree/main 
+```
 
 ## Requirements
 
